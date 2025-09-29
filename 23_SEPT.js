@@ -10,3 +10,4 @@ function areaOrPerimeter(l, w) {
         return 2 * (l + w);
     }
 }
+
